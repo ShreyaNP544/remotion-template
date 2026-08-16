@@ -18,8 +18,7 @@ export const App: React.FC = () => {
       <div style={{ textAlign: "center" }}>
         <h1 style={{ fontSize: 22, fontWeight: 600 }}>Portfolio Intro</h1>
         <p style={{ fontSize: 14, opacity: 0.7, marginTop: 6 }}>
-          A video template recreated in Remotion — playing live in your
-          browser, not a video file.
+          A video template recreated in Remotion as an Assignment
         </p>
       </div>
 
