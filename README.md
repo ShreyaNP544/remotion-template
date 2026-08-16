@@ -46,10 +46,3 @@ sampled reference frames.
 | Playfair Display (500/600) | "ikigai", "a japanese concept", the counter | OFL 1.1 |
 
 Loaded from `public/fonts/` and awaited before the first frame renders.
-
-## Media
-
-The card artwork in scenes 3–5 (`public/cards/`) is cropped from the
-reference video itself, since the original footage isn't published anywhere
-else. The portrait card plays a short extracted frame sequence while it's at
-the front of the stack.
